@@ -1,13 +1,13 @@
 # membuat variabel biodata
-nama = " oscar haris"
+nama = " oscar haris ngaratu"
 kelas = "TI23B"
 umur = "29"
 semester = "2"
 jurusan = "teknik informatika"
-quote = "belajarlah, agar masa depanmu lebih cerah"
+quote = "belajarlah dengan giat, agar masa depanmu lebih cerah"
 married = False
 adalahPerempuan = False
-hobi = ["mainbola", "nonton"]
+hobi = ["main bola", "nonton"]
 
 print("nama:", nama)
 print("kelas:", kelas)
@@ -15,4 +15,4 @@ print("umur:", umur)
 print("semester:", semester)
 print("jurusan:",jurusan)
 print("quote:", quote)
-print(f"aku suka {hobi[0]} dan {hobi[1]}.")
+print(f"hobi: {hobi[0]} dan {hobi[1]}.")
